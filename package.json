@@ -1,0 +1,19 @@
+{
+  "name": "ajs-v3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaKST/ajs-v3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaKST/ajs-v3/issues"
+  },
+  "homepage": "https://github.com/NikitaKST/ajs-v3#readme"
+}
